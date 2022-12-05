@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+p {
+    text-align: justify;
+    background-color: #ECF1F9;
+    width: 700px;
+    font-family: 'Yantramanav', sans-serif;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: small;
+    text-align-last: center;
+    margin: 3px;
+  }
+
+h1 {
+    text-align: center;
+    font-family: 'Yantramanav', sans-serif;
+  }
+
+h2 {
+  font-family: 'Yantramanav', sans-serif;
+  background-color: #ECF1F9;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.tooltip {
+  background-color: white;
+  font-size: 8px;
+  padding: 5px;
+}
+
+img {
+  height: 1200px;
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+}

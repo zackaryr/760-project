@@ -1,0 +1,19 @@
+Location Name,School Year,Assessment/ Subject,Student Group,Student Type/Crosstab,Mean SAT Score,Benchmark,Met or Exceeded,% Met or Exceeded,Did Not Meet,% Did Not Meet,Number Assessed
+Statewide,2015-16,SAT Total Score,All Students,All Students,1001.0,,36371,34.90%,67896,65.10%,104267
+Statewide,2015-16,SAT Evidence-Based Reading and Writing,All Students,All Students,507.4,480,62720,60.20%,41547,39.80%,104267
+Statewide,2015-16,SAT Mathematics,All Students,All Students,493.6,530,38406,36.80%,65861,63.20%,104267
+Statewide,2016-17,SAT Total Score,All Students,All Students,1007.6,,37001,34.90%,68904,65.10%,105905
+Statewide,2016-17,SAT Evidence-Based Reading and Writing,All Students,All Students,509.9,480,63845,60.30%,42060,39.70%,105905
+Statewide,2016-17,SAT Mathematics,All Students,All Students,497.6,530,39054,36.80%,66929,63.20%,105983
+Statewide,2017-18,SAT Total Score,All Students,All Students,1000.1,,36409,34.60%,68724,65.40%,105133
+Statewide,2017-18,SAT Evidence-Based Reading and Writing,All Students,All Students,505.3,480,60757,57.80%,44376,42.20%,105133
+Statewide,2017-18,SAT Mathematics,All Students,All Students,494.8,530,38824,36.90%,66315,63.10%,105139
+Statewide,2018-19,SAT Total Score,All Students,All Students,985.1,,34759,33.90%,67897,66.10%,102656
+Statewide,2018-19,SAT Evidence-Based Reading and Writing,All Students,All Students,495.7,480,56753,55.30%,45903,44.70%,102656
+Statewide,2018-19,SAT Mathematics,All Students,All Students,489.4,530,37256,36.30%,65410,63.70%,102666
+Statewide,2020-21,SAT Total Score,All Students,All Students,996.0,,26308,32.60%,54444,67.40%,80752
+Statewide,2020-21,SAT Evidence-Based Reading and Writing,All Students,All Students,502.8,480,45672,56.60%,35080,43.40%,80752
+Statewide,2020-21,SAT Mathematics,All Students,All Students,493.1,530,27874,34.50%,52880,65.50%,80754
+Statewide,2021-22,SAT Total Score,All Students,All Students,959.9,,26811,28.10%,68710,71.90%,95521
+Statewide,2021-22,SAT Evidence-Based Reading and Writing,All Students,All Students,489.5,480,49310,51.60%,46211,48.40%,95521
+Statewide,2021-22,SAT Mathematics,All Students,All Students,470.4,530,28617,30.00%,66908,70.00%,95525

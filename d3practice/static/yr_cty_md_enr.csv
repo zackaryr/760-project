@@ -1,0 +1,289 @@
+,Year,County,Count
+0,2010,Allegany County,9022
+1,2010,Anne Arundel County,75481
+2,2010,Baltimore City,83800
+3,2010,Baltimore County,104160
+4,2010,Calvert County,16795
+5,2010,Caroline County,5517
+6,2010,Carroll County,27334
+7,2010,Cecil County,15937
+8,2010,Charles County,26850
+9,2010,Dorchester County,4647
+10,2010,Frederick County,40188
+11,2010,Garrett County,4212
+12,2010,Harford County,38394
+13,2010,Howard County,50994
+14,2010,Kent County,2183
+15,2010,Montgomery County,144023
+16,2010,Prince George's County,126671
+17,2010,Queen Anne's County,7781
+18,2010,Somerset County,2920
+19,2010,St. Mary's County,17271
+20,2010,Talbot County,4504
+21,2010,Washington County,22206
+22,2010,Wicomico County,14382
+23,2010,Worcester County,6699
+24,2011,Allegany County,8913
+25,2011,Anne Arundel County,76303
+26,2011,Baltimore City,84212
+27,2011,Baltimore County,105153
+28,2011,Calvert County,16553
+29,2011,Caroline County,5545
+30,2011,Carroll County,27082
+31,2011,Cecil County,15827
+32,2011,Charles County,26778
+33,2011,Dorchester County,4647
+34,2011,Frederick County,40413
+35,2011,Garrett County,4077
+36,2011,Harford County,38224
+37,2011,Howard County,51555
+38,2011,Kent County,2162
+39,2011,Montgomery County,146459
+40,2011,Prince George's County,123833
+41,2011,Queen Anne's County,7761
+42,2011,Somerset County,2882
+43,2011,St. Mary's County,17449
+44,2011,Talbot County,4547
+45,2011,Washington County,22240
+46,2011,Wicomico County,14520
+47,2011,Worcester County,6643
+48,2012,Allegany County,8929
+49,2012,Anne Arundel County,77770
+50,2012,Baltimore City,84747
+51,2012,Baltimore County,106927
+52,2012,Calvert County,16323
+53,2012,Caroline County,5585
+54,2012,Carroll County,26687
+55,2012,Cecil County,15634
+56,2012,Charles County,26644
+57,2012,Dorchester County,4718
+58,2012,Frederick County,40456
+59,2012,Garrett County,4004
+60,2012,Harford County,37868
+61,2012,Howard County,52053
+62,2012,Kent County,2130
+63,2012,Montgomery County,148780
+64,2012,Prince George's County,123737
+65,2012,Queen Anne's County,7752
+66,2012,Somerset County,2943
+67,2012,St. Mary's County,17453
+68,2012,Talbot County,4570
+69,2012,Washington County,22403
+70,2012,Wicomico County,14489
+71,2012,Worcester County,6650
+72,2013,Allegany County,8872
+73,2013,Anne Arundel County,78489
+74,2013,Baltimore City,84730
+75,2013,Baltimore County,108191
+76,2013,Calvert County,16221
+77,2013,Caroline County,5545
+78,2013,Carroll County,26331
+79,2013,Cecil County,15824
+80,2013,Charles County,26455
+81,2013,Dorchester County,4766
+82,2013,Frederick County,40648
+83,2013,Garrett County,3886
+84,2013,Harford County,37842
+85,2013,Howard County,52806
+86,2013,Kent County,2117
+87,2013,Montgomery County,151295
+88,2013,Prince George's County,125136
+89,2013,Queen Anne's County,7716
+90,2013,Somerset County,2945
+91,2013,St. Mary's County,17841
+92,2013,Talbot County,4537
+93,2013,Washington County,22495
+94,2013,Wicomico County,14431
+95,2013,Worcester County,6649
+96,2014,Allegany County,8865
+97,2014,Anne Arundel County,79518
+98,2014,Baltimore City,84976
+99,2014,Baltimore County,109830
+100,2014,Calvert County,16031
+101,2014,Caroline County,5592
+102,2014,Carroll County,25879
+103,2014,Cecil County,15681
+104,2014,Charles County,26258
+105,2014,Dorchester County,4796
+106,2014,Frederick County,40781
+107,2014,Garrett County,3858
+108,2014,Harford County,37537
+109,2014,Howard County,53685
+110,2014,Kent County,2106
+111,2014,Montgomery County,154435
+112,2014,Prince George's County,127576
+113,2014,Queen Anne's County,7724
+114,2014,Somerset County,2938
+115,2014,St. Mary's County,17887
+116,2014,Talbot County,4630
+117,2014,Washington County,22327
+118,2014,Wicomico County,14545
+119,2014,Worcester County,6654
+120,2015,Allegany County,8812
+121,2015,Anne Arundel County,80387
+122,2015,Baltimore City,83666
+123,2015,Baltimore County,111139
+124,2015,Calvert County,16017
+125,2015,Caroline County,5602
+126,2015,Carroll County,25551
+127,2015,Cecil County,15859
+128,2015,Charles County,26307
+129,2015,Dorchester County,4739
+130,2015,Frederick County,40655
+131,2015,Garrett County,3856
+132,2015,Harford County,37448
+133,2015,Howard County,54870
+134,2015,Kent County,2029
+135,2015,Montgomery County,156380
+136,2015,Prince George's County,128939
+137,2015,Queen Anne's County,7717
+138,2015,Somerset County,2908
+139,2015,St. Mary's County,17941
+140,2015,Talbot County,4625
+141,2015,Washington County,22303
+142,2015,Wicomico County,14790
+143,2015,Worcester County,6660
+144,2016,Allegany County,8702
+145,2016,Anne Arundel County,81397
+146,2016,Baltimore City,82354
+147,2016,Baltimore County,112147
+148,2016,Calvert County,15950
+149,2016,Caroline County,5705
+150,2016,Carroll County,25256
+151,2016,Cecil County,15633
+152,2016,Charles County,26390
+153,2016,Dorchester County,4816
+154,2016,Frederick County,41317
+155,2016,Garrett County,3833
+156,2016,Harford County,37426
+157,2016,Howard County,55638
+158,2016,Kent County,2001
+159,2016,Montgomery County,159010
+160,2016,Prince George's County,130814
+161,2016,Queen Anne's County,7751
+162,2016,Somerset County,2958
+163,2016,St. Mary's County,18067
+164,2016,Talbot County,4593
+165,2016,Washington County,22545
+166,2016,Wicomico County,14889
+167,2016,Worcester County,6667
+168,2017,Allegany County,8629
+169,2017,Anne Arundel County,82777
+170,2017,Baltimore City,80591
+171,2017,Baltimore County,113282
+172,2017,Calvert County,15908
+173,2017,Caroline County,5787
+174,2017,Carroll County,25290
+175,2017,Cecil County,15364
+176,2017,Charles County,26891
+177,2017,Dorchester County,4767
+178,2017,Frederick County,42140
+179,2017,Garrett County,3811
+180,2017,Harford County,37780
+181,2017,Howard County,56784
+182,2017,Kent County,1993
+183,2017,Montgomery County,161546
+184,2017,Prince George's County,132322
+185,2017,Queen Anne's County,7778
+186,2017,Somerset County,2918
+187,2017,St. Mary's County,18053
+188,2017,Talbot County,4646
+189,2017,Washington County,22595
+190,2017,Wicomico County,14953
+191,2017,Worcester County,6684
+192,2018,Allegany County,8539
+193,2018,Anne Arundel County,83307
+194,2018,Baltimore City,79297
+195,2018,Baltimore County,113814
+196,2018,Calvert County,15936
+197,2018,Caroline County,5829
+198,2018,Carroll County,25179
+199,2018,Cecil County,15307
+200,2018,Charles County,27108
+201,2018,Dorchester County,4785
+202,2018,Frederick County,42714
+203,2018,Garrett County,3842
+204,2018,Harford County,37826
+205,2018,Howard County,57907
+206,2018,Kent County,1912
+207,2018,Montgomery County,162680
+208,2018,Prince George's County,132667
+209,2018,Queen Anne's County,7749
+210,2018,Somerset County,2930
+211,2018,St. Mary's County,17999
+212,2018,Talbot County,4674
+213,2018,Washington County,22681
+214,2018,Wicomico County,14949
+215,2018,Worcester County,6810
+216,2019,Allegany County,8437
+217,2019,Anne Arundel County,84984
+218,2019,Baltimore City,79187
+219,2019,Baltimore County,115038
+220,2019,Calvert County,16022
+221,2019,Caroline County,5874
+222,2019,Carroll County,25345
+223,2019,Cecil County,15256
+224,2019,Charles County,27521
+225,2019,Dorchester County,4710
+226,2019,Frederick County,43828
+227,2019,Garrett County,3834
+228,2019,Harford County,38429
+229,2019,Howard County,58868
+230,2019,Kent County,1918
+231,2019,Montgomery County,165267
+232,2019,Prince George's County,135962
+233,2019,Queen Anne's County,7764
+234,2019,Somerset County,2905
+235,2019,St. Mary's County,18083
+236,2019,Talbot County,4703
+237,2019,Washington County,22993
+238,2019,Wicomico County,15203
+239,2019,Worcester County,6882
+240,2020,Allegany County,8075
+241,2020,Anne Arundel County,83044
+242,2020,Baltimore City,77856
+243,2020,Baltimore County,111084
+244,2020,Calvert County,15292
+245,2020,Caroline County,5553
+246,2020,Carroll County,24568
+247,2020,Cecil County,14718
+248,2020,Charles County,26768
+249,2020,Dorchester County,4662
+250,2020,Frederick County,43221
+251,2020,Garrett County,3648
+252,2020,Harford County,37333
+253,2020,Howard County,57293
+254,2020,Kent County,1812
+255,2020,Montgomery County,160564
+256,2020,Prince George's County,131657
+257,2020,Queen Anne's County,7395
+258,2020,Somerset County,2818
+259,2020,St. Mary's County,17246
+260,2020,Talbot County,4524
+261,2020,Washington County,21939
+262,2020,Wicomico County,14354
+263,2020,Worcester County,6711
+264,2021,Allegany County,8132
+265,2021,Anne Arundel County,83163
+266,2021,Baltimore City,77807
+267,2021,Baltimore County,111139
+268,2021,Calvert County,15407
+269,2021,Caroline County,5551
+270,2021,Carroll County,25054
+271,2021,Cecil County,14780
+272,2021,Charles County,26875
+273,2021,Dorchester County,4573
+274,2021,Frederick County,45220
+275,2021,Garrett County,3502
+276,2021,Harford County,37920
+277,2021,Howard County,57325
+278,2021,Kent County,1786
+279,2021,Montgomery County,158231
+280,2021,Prince George's County,128777
+281,2021,Queen Anne's County,7440
+282,2021,Somerset County,2741
+283,2021,St. Mary's County,17480
+284,2021,Talbot County,4533
+285,2021,Washington County,22171
+286,2021,Wicomico County,14664
+287,2021,Worcester County,6803

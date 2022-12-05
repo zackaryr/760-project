@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Impact of COVID-19 on Student Enrollment and Performance</title>
+    <link rel="stylesheet" href="static/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Yantramanav&display=swap" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+            crossorigin="anonymous">
+    </script>
+    <script src="static/app.js" defer></script>
+</head>
+<body>
+    <h1>The Impact of COVID-19 on Student Enrollment and Performance</h1>
+    <p class="intro">The purpose of this dashboard is is to provide context to the impact COVID-19 has had on student enrollment and performance.
+        With each graph, there will be a introductory explanation of what you are looking, explanation of how to read and interact with the graph, and our personal conclusions after viewing the data.
+        Our visualizations are split between this webpage and Tableau.
+        Please view our Tableau visualizations <a href="https://public.tableau.com/app/profile/trista3638/viz/collegereadiness2016-2021/Story1?publish=yes" target="_blank">here</a> as these will provide even more information and context surrounding COVID-19 and ist impact on education.
+    </p>
+    <img alt="Infographic" src="static/covidgraphic.png">
+    <p>Michigan School Data<br><br>
+        This chart shows the amount of dropouts for each graduation cohort.<br><br>
+        Example from mischooldata.org: Students in the 2018 cohort were ninth graders in the 2014-15 school year.
+        Their on-time expected graduation was four years later (2018).
+        Students in this cohort who graduated in 2018 were counted in the four-year graduation rate; those who did not graduate in 2018 could be counted as dropouts or off-track continuing.
+        Five- and six-year rates are calculated the same way, counting those who graduated with a regular high school diploma within five and six years, respectively. 
+    </p>
+    <h2>Number of Dropouts per Graduation Cohort</h2>
+    <svg id="legend-2" height=50 width=600></svg>
+    <p class="tooltip">Hovering over a line will highlight the cohort</p>
+    <div class="svg-chart-1"></div>
+    <p>Maryland School Data<br><br>
+        This chart shows the amount of enrollments yearly for each grade cohort. 
+        The following chart breaks down enrollment by county.
+    </p>
+    <h2>Maryland Student Enrollment</h2>
+    <svg id="legend-3" height=50 width=600></svg>
+    <p class="tooltip">Hovering over a line will highlight the cohort</p>
+    <div class="svg-chart-2"></div>
+    <h2>Maryland Student Enrollment - County Breakdown</h2>
+    <div class="svg-chart-6"></div>
+    <p>Maryland School Data<br><br>
+        <b>Attendance Rate:</b> The average percentage of days a student attended school that year.<br><br>
+        <b>AbsenteeRate5:</b> Percentage of students who were absent between zero and four days and who were registered to attend a single school, one or more schools in a county, or one or more schools in Maryland for at least 90 days.<br><br>
+        <b>AbsenteeRate20:</b> Percentage of students who were absent 21 days or more and who were registered to attend a single school, one or more schools in a county, or one or more schools in Maryland for at least 90 days.<br><br>
+        <b>Chronic Absenteeism:</b> The chronic absenteeism measure identifies the number of students who are expected to attend school for at least 10 days and who were absent 10% or more of the school days while enrolled at that school. For example, a student who is registered to attend a school for 30 days and who is absent 3 of those 30 days is considered chronically absent.
+    </p>
+    <h2>Attendance Rate and Absence Rate</h2>
+    <svg id="legend-4" height=50 width=600></svg>
+    <p class="tooltip">Hovering over a line will highlight the cohort</p>
+    <div class="svg-chart-5"></div>
+    <p>Michigan School Data<br><br>
+        This chart shows the average SAT score for each year in 3 different categories(Math, Reading and Writing, Total Score).
+        Hover over each bar to see the average score for that year's assesment.
+        The national benchmark to be considered "college ready" is a score of 480 for Reading and Writing, and 530 for Math.<br><br>
+        The chart below shows the amount of students that have met the respective benchmarks.
+    </p>
+    <h2>Michigan Yearly SAT Score Breakdown</h2>
+    <svg id="legend-1" height=50 width=600></svg>
+    <p class="tooltip">Hovering over a bar will show a tooltip</p>
+    <div class="svg-chart-3"></div>
+    <h2>Michigan Benchmark Achievement Breakdown</h2>
+    <p>
+        <b>Total Amount of Students Assesed</b><br><br>
+        2015-16: 104,267<br>
+        2016-17: 105,905<br>
+        2017-18: 105,133<br>
+        2018-19: 102,656<br>
+        2020-21: 80,752<br>
+        2021-22: 95,521<br>
+    <div class="svg-chart-4"></div>
+    <p>
+        Maryland School Data<br><br>
+        This chart shows Maryland performance in 2013, 2015, 2017, 2019, and 2022 for the <a href="https://nces.ed.gov/nationsreportcard/">National Assesment of Education Progress.</a> 
+        This assesment is a holistic evaluation of the educational performance of a demographic. 
+        The following percentages correspond to the total amount of students at each achievement level.
+    </p>
+    <h2>Grade 4 National Assessment of Education Progress(NAEP) Maryland Student Achievement</h2>
+    <p class="tooltip">Hovering over a line will highlight the cohort</p>
+    <svg id="legend-5" height=50 width=600></svg>
+    <div class="svg-chart-7"></div>
+    <h1>Reflection</h1>
+    <p>
+        Reflection.
+    </p>
+    <h1>References and Resources</h1>
+    <p>
+        References and Resources
+    </p>
+</body>
+</html>
