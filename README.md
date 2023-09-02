@@ -1,3 +1,5 @@
 # 760-project README
 
-This project was created for the INST760 class in Fall of 2022. The url where this project is hosted is here: https://morning-coast-44275.herokuapp.com/
+This project was created for the INST760 class in Fall of 2022. This project was hosted here on Heroku: https://morning-coast-44275.herokuapp.com/
+
+This project is no longer being hosted on Heroku as they require a subscription service to keep projects live.
